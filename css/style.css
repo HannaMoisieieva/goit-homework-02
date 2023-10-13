@@ -58,6 +58,9 @@ color:#434455;
     color: #404bbf;
     background-color: #404BBF;
 }
+.main-menu {
+    color: #2e2f42;
+}
 .nav-ad {
     font-style: normal;
 }
@@ -80,7 +83,6 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #FFFFFF;
 background: #4D5AE5;
-background: #2e2f42;
 
 
 }
