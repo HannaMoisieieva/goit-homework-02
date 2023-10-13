@@ -1,7 +1,7 @@
 .list,.menu-item,.link {
     list-style-type: none;
 }
-.link-logo,.menu-link,.menu-item,.link
+.link-logo,.menu-link,.menu-item,.link,.nav-ad
 {
     text-decoration: none;
 }
@@ -44,6 +44,7 @@ color:#2E2F42;
 .menu-link:hover,
 .menu-link:focus {
     color: #404bbf;
+    background-color: #404BBF;
 }
 .nav-address-menu  {
 font-size: 16px;
@@ -55,6 +56,7 @@ color:#434455;
 .nav-address-menu:hover,
 .nav-address-menu:focus {
     color: #404bbf;
+    background-color: #404BBF;
 }
 h1 {
 text-align: center;
@@ -75,6 +77,9 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #FFFFFF;
 background: #4D5AE5;
+background: #2e2f42;
+
+
 }
 .service:hover,
 .service:focus {
@@ -86,6 +91,7 @@ font-weight: 500;
 line-height: 1.2; 
 letter-spacing: 0.2em;
 color: #2E2F42;
+
 }
 .main-text {
 font-size: 16px;
