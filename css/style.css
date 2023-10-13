@@ -90,6 +90,9 @@ background: #4D5AE5;
 .service:focus {
     color: #404BBF;
 }
+.main-menu {
+    background-color: #2E2F42;
+}
 .text-list {
 font-size: 20px;
 font-weight: 500;
@@ -131,6 +134,8 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
+
+
 .last-section{
 background-color: #F4F4FD
 }
