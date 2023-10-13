@@ -14,7 +14,7 @@ body {
     color: #434455;
 }
 
-.top-header-text-list {   
+.top-header-text-list{   
 font-family: 'Raleway', sans-serif;
 font-size: 18px;
 font-weight: 700;
@@ -23,7 +23,8 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #2E2F42;
 }
-.top-header-text{
+.link-logo{
+font-family: 'Raleway', sans-serif;
 font-size: 18px;
 font-weight: 700;
 line-height: 1.16; 
