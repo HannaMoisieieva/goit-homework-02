@@ -89,6 +89,7 @@ background: #4D5AE5;
 .service:hover,
 .service:focus {
     color: #404BBF;
+    background-color: #404BBF;
 }
 .main-menu {
     background-color: #2E2F42;
