@@ -1,7 +1,7 @@
-.list,.menu-item {
+.list,.menu-item,.link {
     list-style-type: none;
 }
-.link-logo,.menu-link,.menu-item,link
+.link-logo,.menu-link,.menu-item,.link
 {
     text-decoration: none;
 }
@@ -54,7 +54,7 @@ color:#434455;
 }
 .nav-address-menu:hover,
 .nav-address-menu:focus {
-    color: #4D5AE5;
+    color: #404bbf;
 }
 h1 {
 text-align: center;
