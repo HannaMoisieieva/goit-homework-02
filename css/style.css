@@ -97,7 +97,7 @@ background: #4D5AE5;
 .text-list {
 font-size: 20px;
 font-weight: 500;
-line-height: 1.2; 
+line-height: 1.11; 
 letter-spacing: 0.02em;
 color: #2E2F42;
 
@@ -109,11 +109,12 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color:  #434455;
 }
+
 .team {
 text-align: center;
 font-size: 36px;
 font-weight: 700;
-line-height: 1.1; 
+line-height: 1.11; 
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2E2F42;
@@ -134,6 +135,9 @@ font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
+}
+.team-list  {
+    background-color: #F4F4FD;
 }
 
 
