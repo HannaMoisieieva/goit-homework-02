@@ -136,6 +136,10 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
+.team-img {
+    background-color: #FFFFFF
+}
+
 .team-list  {
     background-color: #F4F4FD;
 }
@@ -144,6 +148,7 @@ color: #434455;
 .list-text-midle {
 background-color: #FFFFFF
 }
+
 .list-portfolio {
 text-align: center;
 font-size: 36px;
