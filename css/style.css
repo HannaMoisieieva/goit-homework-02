@@ -168,9 +168,10 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .name-web {
+font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-weight: 700;
-line-height: 1.16;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #F4F4FD;
@@ -180,10 +181,12 @@ background: #2E2F42;
     background-color: #FFFFFF;
 }
 .last-text {
-color: var(--CLOUD, #F4F4FD);
 font-size: 16px;
 font-weight: 400;
-line-height: 1.6;
+line-height: 1.17;
 letter-spacing: 0.02em;
-background: #2E2F42
+color:#F4F4FD;
+}
+.foot-list{
+background-color: #2e2f42;
 }
